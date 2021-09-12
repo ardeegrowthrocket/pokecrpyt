@@ -1,0 +1,24 @@
+[18-Jan-2021 20:36:28 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:40:30 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:41:59 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:42:31 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:43:17 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:43:20 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:43:50 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:43:52 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:43:54 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:44:21 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:44:53 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:45:38 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:45:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function owner() in /home/kringlee/public_html/dashboard/genes.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/kringlee/public_html/dashboard/genes.php on line 13
+[18-Jan-2021 20:46:07 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:28 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:33 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:46 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:48 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:49 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:49 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
+[18-Jan-2021 20:46:50 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kringlee/public_html/dashboard/genes.php on line 2
